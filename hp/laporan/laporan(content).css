@@ -18,9 +18,7 @@ body {
     background-color: #F9FAFB !important;
 
 }
-.container-fluid {
-    min-height: 100vh;
-}
+
 main {
     min-height: 100vh;
 }
